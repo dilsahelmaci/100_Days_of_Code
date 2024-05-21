@@ -11,15 +11,21 @@ This course is designated to help anyone practice and master the Python programm
 The repository is organized by days, with each day's code contained in its own directory:
 <pre>
 100-Days-of-Code/
-├── Day01-{ProjectName}/
-│   ├── main.py
-│   └── README.md
-├── Day02-{ProjectName}/
-│   ├── main.py
-│   └── README.md
-├── Day03-{ProjectName}/
-│   ├── main.py
-│   └── README.md
+├── Day01/
+│   ├── ProjectName/
+│       ├── main.py
+│       └── README.md
+│   ├── ProjectName/
+│       ├── main.py
+│       └── README.md
+├── Day02/
+│   ├── ProjectName/
+│       ├── main.py
+│       └── README.md
+├── Day03/
+│   ├── ProjectName/
+│       ├── main.py
+│       └── README.md
 └── ...
 </pre>
 ## How to Use This Repository
